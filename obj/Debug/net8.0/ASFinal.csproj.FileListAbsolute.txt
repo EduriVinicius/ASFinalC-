@@ -1,0 +1,14 @@
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\bin\Debug\net8.0\ASFinal.exe
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\bin\Debug\net8.0\ASFinal.deps.json
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\bin\Debug\net8.0\ASFinal.runtimeconfig.json
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\bin\Debug\net8.0\ASFinal.dll
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\bin\Debug\net8.0\ASFinal.pdb
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\obj\Debug\net8.0\ASFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\obj\Debug\net8.0\ASFinal.AssemblyInfoInputs.cache
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\obj\Debug\net8.0\ASFinal.AssemblyInfo.cs
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\obj\Debug\net8.0\ASFinal.csproj.CoreCompileInputs.cache
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\obj\Debug\net8.0\ASFinal.dll
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\obj\Debug\net8.0\refint\ASFinal.dll
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\obj\Debug\net8.0\ASFinal.pdb
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\obj\Debug\net8.0\ASFinal.genruntimeconfig.cache
+C:\Users\Eduri\Desktop\ASFinalC#\ASFinal\obj\Debug\net8.0\ref\ASFinal.dll
